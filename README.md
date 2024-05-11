@@ -1,1 +1,1 @@
-![Qualitative-comparison-for-transformation-of-Sketch-to-Photo-using-AR-face-dataset-From](https://github.com/arjunkapoo/.aru/assets/95234251/8ea36c41-f8a1-42bd-a360-bda02523fdfe)
+![image](https://github.com/arjunkapoo/.aru/assets/95234251/2fe3b566-0ebe-4601-be9b-92d7610bb20f)
