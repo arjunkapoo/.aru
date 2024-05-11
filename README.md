@@ -1,1 +1,1 @@
-![image](https://github.com/arjunkapoo/.aru/assets/95234251/2fe3b566-0ebe-4601-be9b-92d7610bb20f)
+![image](https://www.researchgate.net/publication/358508116/figure/fig4/AS:11431281084770828@1663379964405/Qualitative-comparison-for-transformation-of-Sketch-to-Photo-using-CUHK-face-dataset.png)
